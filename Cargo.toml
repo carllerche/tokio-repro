@@ -8,6 +8,6 @@ edition = "2018"
 
 [dependencies.tokio]
 git = "https://github.com/tokio-rs/tokio"
-rev = "d07c89ebd352bfe771f5594bff6cb87476120a6b"
+rev = "0f25bf0e254159e9900767aa456f9839bb9e6fa1"
 default-features = false
 features = ["rt-threaded"]
